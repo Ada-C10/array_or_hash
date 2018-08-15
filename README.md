@@ -8,3 +8,5 @@ How we organize our data matters. Different structuring of data allows for optim
   <li> as a Hash of hashes </li>
  </ol>
  Take some time to consider the pros and cons of the above two options.
+
+2. [Optional] Take some time to understand the [linked code](./array_or_hash.rb) showing student account generator as an array of hashes and as a hash of hashes.
